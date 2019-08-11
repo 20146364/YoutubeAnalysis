@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#2196F3</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="duration_background_color">#aa000000</color>
+    <color name="grey">#ddd</color>
+
+    <color name="transparent_background_color">#00000000</color>
+    <color name="selected_background_color">#96717171</color>
+
+    <color name="subscribe_background_color">#e53935</color>
+    <color name="subscribe_text_color">#fff</color>
+    <color name="subscribed_background_color">#d6d6d6</color>
+    <color name="subscribed_text_color">#717171</color>
+    <color name="dark_ripple_color">#48ffffff</color>
+
+    <color name="dark_separator_color">#0affffff</color>
+
+
+
+</resources>

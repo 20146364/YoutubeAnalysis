@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">YoutubeAnalysis</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="list_thumbnail_view_description">Video preview thumbnail</string>
+    <string name="detail_thumbnail_view_description">Hình thu nhỏ xem trước video</string>
+    <string name="detail_dislikes_img_view_description">Dislike</string>
+    <string name="hold_to_append">Giữ để nối tiếp</string>
+    <string name="general_error">Lỗi</string>
+    <string name="retry">Thử lại</string>
+    <string name="detail_likes_img_view_description">Lượt thích</string>
+    <string name="disabled">Vô hiệu</string>
+    <string name="append_playlist">Thêm vào playlist</string>
+    <string name="controls_add_to_playlist_title">Thêm vào</string>
+    <string name="play_audio">Âm thanh</string>
+    <string name="controls_background_title">Nền</string>
+    <string name="open_in_popup_mode">Mở trong trình phát popup</string>
+    <string name="controls_popup_title">Popup</string>
+    <string name="controls_download_desc">Tải về tệp luồng</string>
+    <string name="download">Tải về</string>
+    <string name="detail_uploader_thumbnail_view_description">Hình thu nhỏ của avatar người tải lên</string>
+    <string name="empty_view_no_comments">Không có bình luận nào!</string>
+
+</resources>
